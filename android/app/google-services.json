@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726264568383",
+    "project_id": "gestureapp-e4950",
+    "storage_bucket": "gestureapp-e4950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726264568383:android:98c56058176702b72c768a",
+        "android_client_info": {
+          "package_name": "com.example.handgesture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726264568383-64b27a5d1mavkd05nlkj3mo73alqpegs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0t4w8GW5et-a05r4a-DDBU5ZmFZ98vJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726264568383-64b27a5d1mavkd05nlkj3mo73alqpegs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
